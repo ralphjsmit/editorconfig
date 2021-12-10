@@ -1,1 +1,1 @@
-# editorconfig
+# Personal Editor Configuration
