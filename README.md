@@ -34,3 +34,5 @@ alias fetchEditorConfig="git fetch editorconfig && git checkout editorconfig/mai
 alias ec="editorConfig"
 alias fec="fetchEditorConfig"
 ```
+
+Now you can just run `ec` to install the editorconfig file in a project or `fec` to fetch the latest version.
