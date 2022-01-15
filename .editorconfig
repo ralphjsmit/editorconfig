@@ -605,7 +605,7 @@ ij_coffeescript_use_semicolon_after_statement = false
 ij_coffeescript_var_declaration_wrap = normal
 
 [{*.ctp,*.hphp,*.inc,*.module,*.php,*.php4,*.php5,*.phtml,FileTypeNotFound,php}]
-max_line_length = 200
+max_line_length = 999
 ij_continuation_indent_size = 4
 ij_wrap_on_typing = false
 ij_php_align_assignments = false
